@@ -8,7 +8,7 @@ pipeline {
     stages {
         stage('1-Build') {
             steps {
-                echo "Start of Stage Build...trigger4"
+                echo "Start of Stage Build...trigger5"
                 echo "Building......."
                 echo "End of Stage Build..."
             }
